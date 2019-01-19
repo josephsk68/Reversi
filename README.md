@@ -47,28 +47,28 @@ command to run: java -cp cs1302/p2/bin/ cs1302.p2.Reversi IntelligentComputerPla
 
 # Example
 
-Welcome to Reversi!  Moves should be entered in "[row] [column]" format.
-  
-•	    1 2 3 4 5 6 7 8
-•	  1 . . . . . . . .
-•	  2 . . . . . . . .
-•	  3 . . . . _ . . .
-•	  4 . . . X O _ . .
-•	  5 . . _ O X . . .
-•	  6 . . . _ . . . .
-•	  7 . . . . . . . .
-•	  8 . . . . . . . .
-•	
-•	Enter your move, X player: 3 5
-•	
-•	    1 2 3 4 5 6 7 8
-•	  1 . . . . . . . .
-•	  2 . . . . . . . .
-•	  3 . . . _ X _ . .
-•	  4 . . . X X . . .
-•	  5 . . . O X _ . .
-•	  6 . . . . . . . .
-•	  7 . . . . . . . .
-•	  8 . . . . . . . .
-•	
-•	Enter your move, O player: 3 4
+   Welcome to Reversi!  Moves should be entered in "[row] [column]" format.
+
+       1 2 3 4 5 6 7 8
+     1 . . . . . . . .
+     2 . . . . . . . .
+     3 . . . . _ . . .
+     4 . . . X O _ . .
+     5 . . _ O X . . .
+     6 . . . _ . . . .
+     7 . . . . . . . .
+     8 . . . . . . . .
+
+   Enter your move, X player: 3 5
+
+       1 2 3 4 5 6 7 8
+     1 . . . . . . . .
+     2 . . . . . . . .
+     3 . . . _ X _ . .
+     4 . . . X X . . .
+     5 . . . O X _ . .
+     6 . . . . . . . .
+     7 . . . . . . . .
+     8 . . . . . . . .
+
+   Enter your move, O player: 3 4
