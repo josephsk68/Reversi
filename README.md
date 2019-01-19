@@ -4,12 +4,17 @@ Reversi Game
 
 # Reversi Description
 
-•Reversi (also known as “Othello”) is a two-player board game that involves strategically placing two-sided pieces on a grid until no more pieces can be placed. 
-•Each move made results in one or more pieces getting flipped, changing ownership of those pieces. 
-•Your job is to implement this game on the command line, allowing for all different player matchups including human vs. computer, human vs. human, and computer vs. computer. 
-•You will implement different levels of computer intelligence. 
-•To get a better understanding of the game, play a couple of rounds of reversi. 
-•For further reading, see the Wikipedia entry for reversi.
+Reversi (also known as “Othello”) is a two-player board game that involves strategically placing two-sided pieces on a grid until no more pieces can be placed. 
+
+Each move made results in one or more pieces getting flipped, changing ownership of those pieces. 
+
+Your job is to implement this game on the command line, allowing for all different player matchups including human vs. computer, human vs. human, and computer vs. computer. 
+
+You will implement different levels of computer intelligence. 
+
+To get a better understanding of the game, play a couple of rounds of reversi. 
+
+For further reading, see the Wikipedia entry for reversi.
 
 # Reversi Overview
 
